@@ -1,3 +1,2 @@
-#!/bin/bash 
-ls -axmp
-
+#!/bin/bash
+ls -xamp 
